@@ -1,0 +1,28 @@
+{
+    "comment": "Real Flipkart banner dimensions - updated to match actual Flipkart mobile homepage",
+    "hero_slider": {
+        "aspect_ratio": "2:1",
+        "example_px": "390x195",
+        "notes": "Full-width edge-to-edge, no rounded corners, no margin. Flipkart uses 2:1 not 5:2."
+    },
+    "mid_page_carousel": {
+        "aspect_ratio": "2:1",
+        "example_px": "390x195",
+        "notes": "Full-width, no border-radius. Appears mid-page between product sections."
+    },
+    "sponsored_editorial_banner": {
+        "aspect_ratio": "8:3",
+        "example_px": "390x146",
+        "notes": "Wider and shorter than hero. Used in sponsored sections. Full-width, flat."
+    },
+    "ad_banner": {
+        "aspect_ratio": "16:9",
+        "example_px": "390x219",
+        "notes": "Standard ad format used by Flipkart for paid placements. Taller than editorial."
+    },
+    "offer_card_image": {
+        "aspect_ratio": "1:1",
+        "example_px": "120x120",
+        "notes": "Square product thumbnail inside horizontal scroll cards."
+    }
+}
